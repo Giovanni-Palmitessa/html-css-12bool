@@ -3,7 +3,12 @@
     background-color: #006CFA;
     border: 1px solid white;
     color: white;
-    vertical-align: middle;
+    padding: 0.7rem;
+}
+
+.green{
+    background-color: #00E165;
+    border-color: transparent;
 }
 
 .content{
